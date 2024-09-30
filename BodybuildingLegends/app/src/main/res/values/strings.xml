@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Bodybuilding Legends</string>
+    <string name="legend">legend</string>
+    <string name="confirm">confirm</string>
+    <string name="confirm_legend">confirm leyenda</string>
+    <string name="ok">ok</string>
+    <string name="legend_removed">leyenda removida</string>
+</resources>
